@@ -3,18 +3,18 @@ VBA Challenge
 For this project we analyzed and refactored existing code so that we could gather a dataset that fit our needs i.e. made the dataset manageable and useful. The Client was researching green stocks for his parents and needed help managing and analyzing a large dataset.
 
 ## Results
-Screenshots of the execution times for the refactored code are in the git hub link: VBA_Challenge_2017.png  
-	    VBA_Challenge_2018.png
-Also, screenshot of run-time before refactoring is here: Before Refactoring
+Screenshots of the execution times for the refactored code are in the git hub link: https://github.com/hillinhank/stocks-analysis/blob/main/VBA_Challenge_2017.png  
+	    https://github.com/hillinhank/stocks-analysis/blob/main/VBA_Challenge_2018.png
+Also, screenshot of run-time before refactoring is here: https://github.com/hillinhank/stocks-analysis/blob/main/Screen Shot Run-Time Before Refactor.png
 
 It is self-evident that our code refactoring was successful based on run-time. The time after refactoring is one quarter the timestamp before.
 
 ##Results-Favorite Stock
 ENPH is the most interesting stock in the group based on its performance. In 2017 it saw an ROI of 82% and in 2018 it saw an ROI of 130%. Compared to the average stock market annual return of ~10%, ENPPH saw a 24 month return of over 200%. More research is necessary to see how sustainable this growth is, it is however, remarkable.
 
-Screenshots of Final Analysis:Final Analysis Screenshot 2017
-			      Final Analysis Screenshot 2018
-Screenshots of ENPH: ENPH 2017, ENPH 2018
+Screenshots of Final Analysis:https://github.com/hillinhank/stocks-analysis/blob/main/Screen Shot of Final Analysis 2017.png
+					 https://github.com/hillinhank/stocks-analysis/blob/main/Screen Shot of Final Analysis 2018.png
+Screenshots of ENPH: https://github.com/hillinhank/stocks-analysis/blob/main/ENPH-2017.png, https://github.com/hillinhank/stocks-analysis/blob/main/ENPH-2018.png
 
 ### Summary
 	-What are the advantages/disadvantages of refactoring code?
