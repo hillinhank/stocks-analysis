@@ -21,7 +21,7 @@ Screenshots of ENPH: https://github.com/hillinhank/stocks-analysis/blob/main/ENP
 -An immediate disadvantage for a newbie like myself is, one misstep can create other problems. I knew something had gone awry at the end of the module when adding colors to the 2017/2018 cells. I had to fix the code later to make up for this flaw and it became time consuming. 
 -Another disadvantage is that the same lines of code ended up being duplicated multiple times. This admittedly may have been operator error. 
 -The advantage is having good, palatable datasets for easy consumption and faster run-times. 
--How do these pros and cons apply to refactoring the original VBA script?
+	-How do these pros and cons apply to refactoring the original VBA script?
 -I think that some of my missteps could be avoided in the future with experience, and hopefully my process will become neater with time and practice
 -In refactoring the original VBA code, I think that my could have been more concise.
 -With the goal of having palatable data in mind, this can all still be seen as a success. In spite of some of the frustrations, the run-time was greatly decreased and the datasets match the intended dataset screenshots from the Module 2 Challenge page.
